@@ -1,2 +1,2 @@
 # LiDAR-Mapping
-This is the code for a LiDAR mapping robot.
+This is my robot that maps caves for scientists. This robot contains a Raspberry Pi and a LiDAR. For many years, people have been lost in caves, trying to explore them deeply. They have tried to map every twist and turn, but get lost while doing so. This robot, though, has the ability to map every inch of the cave. Future updates will have a autonomus robot going through the caves, taking pictures. Although they say you can do flash photography or OpenCV, LiDAR will be the best option for dark spaces, such as caves. So here is the code for mapping a cave with a LiDAR robot.  
